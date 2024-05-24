@@ -3,7 +3,6 @@ import streamlit as st
 import requests
 import sqlite3
 import re
-import folium
 from streamlit_folium import folium_static
 import matplotlib.pyplot as plt
 import plotly.graph_objects as go
